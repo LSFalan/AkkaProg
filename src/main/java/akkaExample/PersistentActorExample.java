@@ -1,4 +1,4 @@
-package akka.test;
+package akkaExample;
 
 //#persistent-actor-example
 import akka.actor.ActorRef;
